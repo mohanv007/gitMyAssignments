@@ -1,2 +1,0 @@
-This file is created from Master branch
-This file is amended from feature branch
